@@ -1,6 +1,6 @@
 {
   "name": "react-calc-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Input and Button components to practice using a npm package to build a react calculator app",
   "main": "build/index.js",
   "peerDependencies": {
